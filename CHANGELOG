@@ -1,0 +1,31 @@
+2005-10-11 06:53  geocar
+
+	* README: adding caveat
+
+2005-10-11 06:39  geocar
+
+	* Makefile, find_window.c, xexec.c, xlisten.c: sanity checks
+
+2005-10-11 06:36  geocar
+
+	* init_atoms.c: wee, free fix
+
+2005-10-11 06:32  geocar
+
+	* Makefile, README, send_command.c: woo, added readme; support null
+	  outputs
+
+2005-10-11 06:27  geocar
+
+	* Makefile, atoms.h, display.h, find_window.c, free_lock.c,
+	  init_atoms.c, lock.h, obtain_lock.c, send_command.c,
+	  setup_display.c, version.h, vroot.h, xexec.c, xlisten.c: Initial
+	  revision
+
+2005-10-11 06:27  geocar
+
+	* Makefile, atoms.h, display.h, find_window.c, free_lock.c,
+	  init_atoms.c, lock.h, obtain_lock.c, send_command.c,
+	  setup_display.c, version.h, vroot.h, xexec.c, xlisten.c: Loaded
+	  into CVS
+

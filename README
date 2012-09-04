@@ -1,0 +1,8 @@
+here's how to make xexec work:
+
+hosta$ xlisten open-url /bin/sh -c 'htmlview "$CMD"'
+hostb$ xexec open-url http://www.google.com/
+
+note that your "exe" for xlisten must return before xlisten responds. any
+output written to stdout will be passed back to xexec.
+
